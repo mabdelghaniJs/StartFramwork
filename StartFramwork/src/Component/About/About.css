@@ -1,0 +1,10 @@
+.about{
+    background-color: #1abc9c;
+    min-height: inherit;
+}
+
+.line{
+    background-color: white;
+    height: 4px;
+    width: 80px;
+}

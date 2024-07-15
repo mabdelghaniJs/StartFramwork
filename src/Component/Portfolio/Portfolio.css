@@ -1,0 +1,23 @@
+.layer__ {
+    background-color: #1abc9ce6;
+    /* background-color: rgba(0, 0, 0, 0.6); */
+    min-height: inherit;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+.cl :hover .layer__{
+    opacity: 1;
+
+}
+.hide {
+    display: none;
+
+    z-index: 9999;
+}
+#element{
+    display: none;
+}
+.modalimg{
+    width:600px;
+}

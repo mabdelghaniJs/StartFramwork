@@ -1,0 +1,9 @@
+.__top {
+    top: 40px!important;
+}
+
+.label{
+    color: #1abc9c;
+    margin-bottom: 7px;
+    transition: .6s top;
+}
